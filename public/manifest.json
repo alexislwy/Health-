@@ -1,0 +1,11 @@
+{
+  "short_name": "健康日誌",
+  "name": "健康日誌 - 減重追蹤",
+  "description": "記錄體重、睡眠、飲食、運動、卡路里的減重追蹤 App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0d1f1a",
+  "theme_color": "#0d1f1a",
+  "orientation": "portrait",
+  "icons": []
+}
